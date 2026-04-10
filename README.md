@@ -131,3 +131,21 @@ Total maximum
 17 pts
 Materials needed
 1× printed 6×6 grid per match · 4 tokens per team in two distinct colours · 9 zone markers (small stickers or folded paper) to track ownership · 1 timer · 1 scoresheet per roun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://docs.google.com/document/d/1zhkvf6H0nxPRElHv0O0BD8s7kmPE1PnwO3OVoUMjeWE/edit?usp=sharing
