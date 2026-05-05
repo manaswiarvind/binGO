@@ -1,17 +1,36 @@
-# bingo_app
+ binGO
+MOBILE APP 
+1slot for barcode based itmes(can bottles,plastic container
 
-A new Flutter project.
+1 slot for non barcode items (weight) ask nss for weight machine (papers books cardboard)
 
-## Getting Started
+1 slot for e-items
 
-This project is a starting point for a Flutter application.
+flutter (dart) for ui (fluttertemplates.dev)
+google accounts for login (cllg mail id)
+mysql (points,qr item,user id ,weight for items )
+ml on server 
+dart for backend also
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Front-End 
+Landing Page - Logo, tagline, Name(navitages to home page)
+signup?login (Avg ui, two options login/ signup + forget password, login only through @bmsce.ac.in)
+Home page ( hey message, point container(points, tier), items disposed, CO2 saved, buttons for page navigation, a fact container, a notification button)
+Scan page ( two tabs- bar code (define things we accept), picture (certain things) and then after click, it navigates to those))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+(Website for admin- Cross verifies and then after credit points)
+
+(50 credit points= 1 activity points)
+( newaspaper, books, cardboard- weight(7);  cans 1 , bottles 1-number -)
+( empty glass cosmetic bottles and plastic bottles- 5)
+sign up(25 cp)
+(e waste- 20 point)
+
+
+
+
+https://docs.google.com/document/d/1zhkvf6H0nxPRElHv0O0BD8s7kmPE1PnwO3OVoUMjeWE/edit?usp=sharing
